@@ -1,0 +1,6 @@
+
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌ©ë8è‚ùŠü0
+h
+java:S1612"FReplace this lambda with method reference 'ReportFiles::getFrequency'.(øß”†ùÿÿÿÿ8ô‚ùŠü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ô‚ùŠü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§›ë¯8ö‚ùŠü0
